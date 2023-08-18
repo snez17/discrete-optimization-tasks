@@ -7,4 +7,5 @@ Below, I will describe the files that contain my projects.
 
 1. Insurance cost 
 2. NLP tasks 
-3. VaR analysis 
+3. VaR analysis
+4. Supply chain analytics (tasks from datacamp course)
