@@ -8,6 +8,6 @@ Below, I will list the files that contain my projects.
 1. Insurance cost  - homework for university course on econometrics (need to add comments and interpretations)
 2. NLP tasks - entry task for math school at NSU
 3. VaR analysis - homework for CMF program
-4. SCM analytics PuLP - tasks from datacamp course
+4. SCM analytics PuLP - there I solved 5-6 Linear programming tasks 
 
 
