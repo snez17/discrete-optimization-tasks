@@ -19,7 +19,7 @@ Below, I will list the files that contain my projects.
    
 4. "Insurance cost" (March 2023)
    
-   There is my homework for thr university course on econometrics (need to add comments and interpretations)
+   There is my homework for the university course on econometrics (need to add comments and interpretations)
    
 5. Value at Risk analysis (December 2020)
    
