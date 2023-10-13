@@ -19,7 +19,7 @@ Below, I listed examples of my works.
 
 3. "Books" (July 2023)
    
-   There is my entry task on descriptive analytics for math school at Novosibirsk State University (enrolled).
+   There is a part of my entry task on descriptive analytics for math school at Novosibirsk State University (enrolled).
    
 4. "Insurance cost" (March 2023)
    
