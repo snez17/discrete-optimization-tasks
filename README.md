@@ -11,7 +11,7 @@ Below, I will list the files that contain my projects.
 
 2. "Project Python Mitrovich" (March 2023)
 
-   There I`ve done my homework for the Python course at the university.
+   There I`ve done my homework for the Python course at the university. It is a quiz on Python for new comers.
 
 3. "NLP tasks" (July 2023)
    
