@@ -11,7 +11,7 @@ Below, I will list the files that contain my projects.
 
 2. "Mapping culture and district" (April 2023)
 
-   There I`ve written a Python script that replaced Excel and optimized work task.
+   There I`ve written a Python script that replaced Excel and optimized a project work.
 
 2. "Project Python Mitrovich" (March 2023)
 
