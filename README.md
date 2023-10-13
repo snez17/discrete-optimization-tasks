@@ -15,7 +15,7 @@ Below, I listed examples of my works.
 
 2. "Project Python Mitrovich" (March 2023)
 
-   There I`ve done my homework for the Python course at the university. It is a quiz on Python for new comers.
+   There I`ve done my homework for the Python course at the university. It is a quiz on Python for new comers (grade 10/10).
 
 3. "Books" (July 2023)
    
