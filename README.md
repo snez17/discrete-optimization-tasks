@@ -6,14 +6,15 @@ Currently, I'm a graduate program student at Center of Mathematical Finance and 
 Below, I will list the files that contain my projects.
 
 1. "SCM analytics PuLP" n/
+   
    There I solved a couple of Linear programming tasks in different ways, inc. tasks for the datacamp course "Supply Chain Analytics in Python" (certified)
 
-2. "Project Python Mitrovich"
+3. "Project Python Mitrovich"
    There I`ve done my homework for the Python course at the university.
 
-3. "NLP tasks"
+4. "NLP tasks"
    There is my entry task for math school at Novosibirsk State University.
-4. Value at Risk analysis
+5. Value at Risk analysis
    There I`ve done my homework for the Quantitative Analytics program (CMF HSE).
    
 6. "Insurance cost"
