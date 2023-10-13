@@ -5,7 +5,7 @@ I have focused on learning Python and data-oriented libraries such as Pandas, sk
 Currently, I'm a graduate program student at Center of Mathematical Finance and School of Analytics. 
 Below, I will list the files that contain my projects.
 
-1. "SCM analytics PuLP" 
+1. "SCM analytics PuLP" n/
    There I solved a couple of Linear programming tasks in different ways, inc. tasks for the datacamp course "Supply Chain Analytics in Python" (certified)
 
 2. "Project Python Mitrovich"
