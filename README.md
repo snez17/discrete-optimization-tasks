@@ -13,9 +13,9 @@ Below, I will list the files that contain my projects.
 
    There I`ve done my homework for the Python course at the university. It is a quiz on Python for new comers.
 
-3. "NLP tasks" (July 2023)
+3. "Books" (July 2023)
    
-   There is my entry task for math school at Novosibirsk State University.
+   There is my entry task on descriptive analytics for math school at Novosibirsk State University (enrolled).
    
 4. "Insurance cost" (March 2023)
    
