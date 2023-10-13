@@ -5,9 +5,19 @@ I have focused on learning Python and data-oriented libraries such as Pandas, sk
 Currently, I'm a graduate program student at Center of Mathematical Finance and School of Analytics. 
 Below, I will list the files that contain my projects.
 
-1. Insurance cost  - homework for university course on econometrics (need to add comments and interpretations)
-2. NLP tasks - entry task for math school at NSU
-3. Value at Risk analysis - homework for CMF program 
-4. SCM analytics PuLP - there I solved 5-6 Linear programming tasks in different ways
+1. "SCM analytics PuLP" 
+   There I solved a couple of Linear programming tasks in different ways, inc. tasks for the datacamp course "Supply Chain Analytics in Python" (certified)
+
+2. "Project Python Mitrovich"
+   There I`ve done my homework for the Python course at the university.
+
+3. "NLP tasks"
+   There is my entry task for math school at Novosibirsk State University.
+4. Value at Risk analysis
+   There I`ve done my homework for the Quantitative Analytics program (CMF HSE).
+   
+6. "Insurance cost"
+   homework for university course on econometrics (need to add comments and interpretations)
+
 
 
