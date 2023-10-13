@@ -9,6 +9,10 @@ Below, I will list the files that contain my projects.
    
    There I solved a couple of Linear programming tasks in different ways, inc. tasks for the datacamp course "Supply Chain Analytics in Python" (certified)
 
+2. "Mapping culture and district" (April 2023)
+
+   There I`ve written a Python script that replaced Excel and optimized work task.
+
 2. "Project Python Mitrovich" (March 2023)
 
    There I`ve done my homework for the Python course at the university. It is a quiz on Python for new comers.
