@@ -1,9 +1,9 @@
 # BRIEF CV
 
 Hi! I'm a 23-year-old HSE student majoring in economics, with a keen interest in data analytics. 
-I have focused on learning applied statistics and mathematics. For this I use data-oriented libraries such as Pandas, sklearn, Numpy, SciPy, PulP, matplotlib, etc.
+I have focused on learning applied statistics and mathematics. For that I use data-oriented libraries such as Pandas, sklearn, Numpy, SciPy, PulP, matplotlib, etc.
 Currently, I'm a graduate program student at Center of Mathematical Finance and School of Analytics. 
-Below, I will list the files that contain my projects.
+Below, I will list my work examples.
 
 1. "SCM analytics PuLP" (September 2023)
    
