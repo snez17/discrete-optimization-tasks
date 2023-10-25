@@ -2,7 +2,7 @@
 
 Hi! I'm a 23-year-old HSE student majoring in economics, with a keen interest in data analytics. 
 I have focused on learning applied statistics and mathematics. For that I use data-oriented libraries such as Pandas, sklearn, Numpy, SciPy, PulP, matplotlib, etc.
-By now, I've graduated from Center of Mathematical Finance (Quantitative Analytics programme) and School of Finance (School of Analytics programme). 
+By now, I've graduated from Center of Mathematical Finance (Quantitative Analytics programm) and School of Finance (School of Analytics programm). 
 Below, I listed examples of my works.
 
 1. "SCM analytics PuLP" (September 2023)
